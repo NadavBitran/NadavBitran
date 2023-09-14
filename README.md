@@ -1,5 +1,4 @@
 ![Header](./header-image.png)
-<h1 align="center">Hi 👋, I'm Nadav Bitran</h1>
 <h3 align="center">A third year computer science student at Holon Institute of Technology</h3>
 
 
