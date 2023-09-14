@@ -1,5 +1,4 @@
-![Header](./header-image.png)
-<h3 align="center">A third year computer science student at Holon Institute of Technology</h3>
+
 
 
 - 🌱 I’m currently learning **SQL, C# , Frontend Dev**
