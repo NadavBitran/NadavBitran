@@ -1,7 +1,7 @@
+![Header](./header-image.png)
 <h1 align="center">Hi 👋, I'm Nadav Bitran</h1>
 <h3 align="center">A third year computer science student at Holon Institute of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadavbitran&label=Profile%20views&color=0e75b6&style=flat" alt="nadavbitran" /> </p>
 
 - 🌱 I’m currently learning **SQL, C# , Frontend Dev**
 
