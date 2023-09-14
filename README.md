@@ -1,4 +1,4 @@
-
+![Header](./header-image.png)
 
 
 - 🌱 I’m currently learning **SQL, C# , Frontend Dev**
