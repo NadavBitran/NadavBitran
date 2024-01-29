@@ -1,7 +1,7 @@
 ![Header](./header-image.png)
 
 
-- 🌱 I’m currently learning **SQL, C# , Frontend Dev**
+- 🌱 I’m currently learning **C#, Java**
 
 - 📫 How to reach me **nadavbitran@gmail.com**
 
